@@ -19,7 +19,7 @@ include: "/views/*.view.lkml"                # include all views in the views/ f
 #   }
 # }
 explore: cdm_pricing {
-  label: "Pricing Optimization"
+  label: "Pricing Optimization Final"
 }
 
 explore: price_changes {
